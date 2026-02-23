@@ -1,0 +1,32 @@
+running develop
+running egg_info
+creating doom_auv_sim.egg-info
+writing doom_auv_sim.egg-info/PKG-INFO
+writing dependency_links to doom_auv_sim.egg-info/dependency_links.txt
+writing entry points to doom_auv_sim.egg-info/entry_points.txt
+writing requirements to doom_auv_sim.egg-info/requires.txt
+writing top-level names to doom_auv_sim.egg-info/top_level.txt
+writing manifest file 'doom_auv_sim.egg-info/SOURCES.txt'
+reading manifest file 'doom_auv_sim.egg-info/SOURCES.txt'
+writing manifest file 'doom_auv_sim.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/python3.10/site-packages/doom-auv-sim.egg-link (link to .)
+Installing acoustic_channel_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim
+Installing arbitrator_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim
+Installing doom_sim_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim
+Installing mission_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim
+Installing nav2_bridge script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim
+Installing teleop_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim
+Installing viz_bridge_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim
+
+Installed /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim
+running symlink_data
+creating /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/share/ament_index
+creating /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/share/ament_index/resource_index
+creating /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/share/ament_index/resource_index/packages
+symbolically linking /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim/resource/doom_auv_sim -> /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/share/ament_index/resource_index/packages
+symbolically linking /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim/package.xml -> /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/share/doom_auv_sim
+creating /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/share/doom_auv_sim/rviz
+symbolically linking /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim/doom_auv_sim/rviz/doom_sim.rviz -> /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/share/doom_auv_sim/rviz
+creating /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/share/doom_auv_sim/launch
+symbolically linking /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim/launch/doom_sim.launch.py -> /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/share/doom_auv_sim/launch

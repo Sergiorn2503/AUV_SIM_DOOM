@@ -1,0 +1,9 @@
+[console_scripts]
+acoustic_channel_node = doom_auv_sim.nodes.acoustic_channel_node:main
+arbitrator_node = doom_auv_sim.nodes.arbitrator_node:main
+doom_sim_node = doom_auv_sim.nodes.main_sim_node:main
+mission_node = doom_auv_sim.nodes.mission_node:main
+nav2_bridge = doom_auv_sim.nav2_bridge:main
+teleop_node = doom_auv_sim.nodes.teleop_node:main
+viz_bridge_node = doom_auv_sim.nodes.viz_bridge_node:main
+

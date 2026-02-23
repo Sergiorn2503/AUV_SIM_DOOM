@@ -1,0 +1,67 @@
+[0.000000] (-) TimerEvent: {}
+[0.000749] (doom_auv_sim) JobQueued: {'identifier': 'doom_auv_sim', 'dependencies': OrderedDict()}
+[0.001005] (doom_auv_sim) JobStarted: {'identifier': 'doom_auv_sim'}
+[0.100335] (-) TimerEvent: {}
+[0.202167] (-) TimerEvent: {}
+[0.303281] (-) TimerEvent: {}
+[0.404507] (-) TimerEvent: {}
+[0.504936] (-) TimerEvent: {}
+[0.605511] (-) TimerEvent: {}
+[0.707370] (-) TimerEvent: {}
+[0.809233] (-) TimerEvent: {}
+[0.911477] (-) TimerEvent: {}
+[1.012194] (-) TimerEvent: {}
+[1.114822] (-) TimerEvent: {}
+[1.220204] (-) TimerEvent: {}
+[1.322572] (-) TimerEvent: {}
+[1.429927] (-) TimerEvent: {}
+[1.535817] (-) TimerEvent: {}
+[1.637821] (-) TimerEvent: {}
+[1.742475] (-) TimerEvent: {}
+[1.847733] (-) TimerEvent: {}
+[1.950473] (-) TimerEvent: {}
+[2.053895] (-) TimerEvent: {}
+[2.154300] (-) TimerEvent: {}
+[2.254766] (-) TimerEvent: {}
+[2.355308] (-) TimerEvent: {}
+[2.368202] (doom_auv_sim) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim/build', '--no-deps', 'symlink_data'], 'cwd': '/home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim', 'env': {'GJS_DEBUG_TOPICS': 'JS ERROR;JS LOG', 'PYTHON_BASIC_REPL': '1', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'es_ES:es', 'USER': 'sergio', 'XDG_SESSION_TYPE': 'wayland', 'GIT_ASKPASS': '/usr/share/antigravity/resources/app/extensions/git/dist/askpass.sh', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'ANTIGRAVITY_CLI_ALIAS': 'agy', 'HOME': '/home/sergio', 'CHROME_DESKTOP': 'antigravity.desktop', 'TERM_PROGRAM_VERSION': '1.104.0', 'DESKTOP_SESSION': 'ubuntu', 'GIO_LAUNCHED_DESKTOP_FILE': '/usr/share/applications/antigravity.desktop', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'PAGER': 'cat', 'VSCODE_GIT_ASKPASS_MAIN': '/usr/share/antigravity/resources/app/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_ASKPASS_NODE': '/usr/share/antigravity/antigravity', 'MANAGERPID': '2001', 'PYDEVD_DISABLE_FILE_VALIDATION': '1', 'SYSTEMD_EXEC_PID': '2120', 'BUNDLED_DEBUGPY_PATH': '/home/sergio/.antigravity/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/libs/debugpy', 'IM_CONFIG_CHECK_ENV': '1', 'VSCODE_PYTHON_AUTOACTIVATE_GUARD': '1', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'ANTIGRAVITY_AGENT': '1', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '7385', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'sergio', 'JOURNAL_STREAM': '8:12895', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'sergio', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/sergio/miniforge3/bin:/usr/lib/ccache:/home/sergio/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/sergio/bin:/home/sergio/.local/bin:/home/sergio/bin:/opt/ros/humble/bin:/home/sergio/miniforge3/bin:/usr/lib/ccache:/home/sergio/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/sergio/bin:/home/sergio/.local/bin:/home/sergio/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/sergio/.antigravity/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/scripts/noConfigScripts', 'SESSION_MANAGER': 'local/sergio-HP-EliteBook-840-G2:@/tmp/.ICE-unix/2089,unix/sergio-HP-EliteBook-840-G2:/tmp/.ICE-unix/2089', 'INVOCATION_ID': 'c7a24fe836404309ba07394af3247821', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'GDK_BACKEND': 'x11', 'DISPLAY': ':0', 'VSCODE_DEBUGPY_ADAPTER_ENDPOINTS': '/home/sergio/.antigravity/extensions/ms-python.debugpy-2025.18.0-linux-x64/.noConfigDebugAdapterEndpoints/endpoint-da561bbc7076584d.txt', 'LANG': 'es_ES.UTF-8', 'XDG_CURRENT_DESKTOP': 'Unity', 'PYTHONSTARTUP': '/home/sergio/.config/Antigravity/User/workspaceStorage/328b3b7b54e9cb0b5e7db5da6bc7af93/ms-python.python/pythonrc.py', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.A83LK3', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-6e538fa03a.sock', 'TERM_PROGRAM': 'vscode', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim:/opt/ros/humble', 'ORIGINAL_XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GJS_DEBUG_OUTPUT': 'stderr', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim', 'TURTLEBOT3_MODEL': 'burger', 'LC_ALL': 'es_ES.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/home/sergio/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/python3.10/site-packages:/home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim:/home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1'}, 'shell': False}
+[2.457830] (-) TimerEvent: {}
+[2.558241] (-) TimerEvent: {}
+[2.659873] (-) TimerEvent: {}
+[2.765328] (-) TimerEvent: {}
+[2.866141] (-) TimerEvent: {}
+[2.967064] (-) TimerEvent: {}
+[3.068848] (-) TimerEvent: {}
+[3.169319] (-) TimerEvent: {}
+[3.256025] (doom_auv_sim) StdoutLine: {'line': b'running develop\n'}
+[3.269472] (-) TimerEvent: {}
+[3.369928] (-) TimerEvent: {}
+[3.470363] (-) TimerEvent: {}
+[3.571550] (-) TimerEvent: {}
+[3.672680] (-) TimerEvent: {}
+[3.773987] (-) TimerEvent: {}
+[3.875493] (-) TimerEvent: {}
+[3.896587] (doom_auv_sim) StdoutLine: {'line': b'running egg_info\n'}
+[3.897262] (doom_auv_sim) StdoutLine: {'line': b'writing doom_auv_sim.egg-info/PKG-INFO\n'}
+[3.897665] (doom_auv_sim) StdoutLine: {'line': b'writing dependency_links to doom_auv_sim.egg-info/dependency_links.txt\n'}
+[3.898053] (doom_auv_sim) StdoutLine: {'line': b'writing entry points to doom_auv_sim.egg-info/entry_points.txt\n'}
+[3.899695] (doom_auv_sim) StdoutLine: {'line': b'writing requirements to doom_auv_sim.egg-info/requires.txt\n'}
+[3.899966] (doom_auv_sim) StdoutLine: {'line': b'writing top-level names to doom_auv_sim.egg-info/top_level.txt\n'}
+[3.902470] (doom_auv_sim) StdoutLine: {'line': b"reading manifest file 'doom_auv_sim.egg-info/SOURCES.txt'\n"}
+[3.903937] (doom_auv_sim) StdoutLine: {'line': b"writing manifest file 'doom_auv_sim.egg-info/SOURCES.txt'\n"}
+[3.906153] (doom_auv_sim) StdoutLine: {'line': b'running build_ext\n'}
+[3.906716] (doom_auv_sim) StdoutLine: {'line': b'Creating /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/python3.10/site-packages/doom-auv-sim.egg-link (link to .)\n'}
+[3.907892] (doom_auv_sim) StdoutLine: {'line': b'Installing acoustic_channel_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim\n'}
+[3.908483] (doom_auv_sim) StdoutLine: {'line': b'Installing arbitrator_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim\n'}
+[3.908897] (doom_auv_sim) StdoutLine: {'line': b'Installing doom_sim_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim\n'}
+[3.909259] (doom_auv_sim) StdoutLine: {'line': b'Installing mission_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim\n'}
+[3.909617] (doom_auv_sim) StdoutLine: {'line': b'Installing nav2_bridge script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim\n'}
+[3.909935] (doom_auv_sim) StdoutLine: {'line': b'Installing teleop_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim\n'}
+[3.910163] (doom_auv_sim) StdoutLine: {'line': b'Installing viz_bridge_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim\n'}
+[3.910494] (doom_auv_sim) StdoutLine: {'line': b'\n'}
+[3.910891] (doom_auv_sim) StdoutLine: {'line': b'Installed /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim\n'}
+[3.911124] (doom_auv_sim) StdoutLine: {'line': b'running symlink_data\n'}
+[3.978076] (-) TimerEvent: {}
+[4.017969] (doom_auv_sim) CommandEnded: {'returncode': 0}
+[4.051090] (doom_auv_sim) JobEnded: {'identifier': 'doom_auv_sim', 'rc': 0}
+[4.051867] (-) EventReactorShutdown: {}

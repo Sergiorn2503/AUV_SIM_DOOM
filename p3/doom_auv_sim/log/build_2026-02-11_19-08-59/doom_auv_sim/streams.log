@@ -1,0 +1,23 @@
+[2.375s] Invoking command in '/home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim': PYTHONPATH=/home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim/build --no-deps symlink_data
+[3.255s] running develop
+[3.896s] running egg_info
+[3.896s] writing doom_auv_sim.egg-info/PKG-INFO
+[3.897s] writing dependency_links to doom_auv_sim.egg-info/dependency_links.txt
+[3.898s] writing entry points to doom_auv_sim.egg-info/entry_points.txt
+[3.899s] writing requirements to doom_auv_sim.egg-info/requires.txt
+[3.899s] writing top-level names to doom_auv_sim.egg-info/top_level.txt
+[3.902s] reading manifest file 'doom_auv_sim.egg-info/SOURCES.txt'
+[3.903s] writing manifest file 'doom_auv_sim.egg-info/SOURCES.txt'
+[3.905s] running build_ext
+[3.906s] Creating /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/python3.10/site-packages/doom-auv-sim.egg-link (link to .)
+[3.907s] Installing acoustic_channel_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim
+[3.907s] Installing arbitrator_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim
+[3.908s] Installing doom_sim_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim
+[3.908s] Installing mission_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim
+[3.909s] Installing nav2_bridge script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim
+[3.909s] Installing teleop_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim
+[3.909s] Installing viz_bridge_node script to /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/doom_auv_sim
+[3.910s] 
+[3.910s] Installed /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim
+[3.910s] running symlink_data
+[4.018s] Invoked command in '/home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim' returned '0': PYTHONPATH=/home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/install/doom_auv_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sergio/Escritorio/aereos y sub/p3/doom_auv_sim/build/doom_auv_sim/build --no-deps symlink_data
